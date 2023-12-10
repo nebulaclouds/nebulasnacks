@@ -1,0 +1,6 @@
+nebulakit
+wheel
+matplotlib
+nebulakitplugins-deck-standard
+nebulakitplugins.dolt>=0.18.0
+great-expectations>=0.13.31

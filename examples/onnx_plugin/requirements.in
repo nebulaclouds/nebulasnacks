@@ -1,0 +1,9 @@
+nebulakit
+wheel
+matplotlib
+nebulakitplugins-deck-standard
+nebulakitplugins-onnxpytorch>=1.1.1
+nebulakitplugins-onnxtensorflow>=1.1.1
+nebulakitplugins-onnxscikitlearn>=1.1.1
+onnxruntime
+torchvision

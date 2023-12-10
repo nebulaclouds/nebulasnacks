@@ -1,0 +1,5 @@
+nebulakit
+wheel
+matplotlib
+nebulakitplugins-deck-standard
+nebulakitplugins-papermill>=0.16.0

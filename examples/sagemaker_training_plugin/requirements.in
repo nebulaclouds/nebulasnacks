@@ -1,0 +1,7 @@
+nebulakit
+wheel
+matplotlib
+nebulakitplugins-deck-standard
+nebulakitplugins-awssagemaker>=0.16.0
+tensorflow
+tensorflow-datasets

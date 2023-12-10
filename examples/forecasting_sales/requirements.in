@@ -1,0 +1,7 @@
+nebulakit>=0.32.3
+wheel
+matplotlib
+nebulakitplugins-deck-standard
+nebulakitplugins-spark>=0.16.0
+pyspark==3.0.1
+s3fs

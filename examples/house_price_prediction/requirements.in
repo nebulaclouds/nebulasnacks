@@ -1,0 +1,9 @@
+nebulakit>=0.32.3
+wheel
+matplotlib
+nebulakitplugins-deck-standard
+xgboost
+joblib
+scikit-learn
+tabulate
+matplotlib

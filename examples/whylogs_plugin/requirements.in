@@ -1,0 +1,9 @@
+nebulakit
+wheel
+matplotlib
+nebulakitplugins-deck-standard
+nebulakitplugins-whylogs>=1.1.1b0
+scikit-learn
+whylogs[s3]
+whylogs[mlflow]
+whylogs[whylabs]

@@ -1,0 +1,7 @@
+nebulakit>=0.32.3
+wheel
+matplotlib
+nebulakitplugins-deck-standard
+scikit-learn
+numpy
+feast[aws]

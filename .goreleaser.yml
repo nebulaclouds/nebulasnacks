@@ -1,0 +1,13 @@
+project_name: nebulasnacks
+builds:
+  - skip: true
+release:
+  github:
+    owner: nebulaclouds
+    name: nebulasnacks
+  draft: false
+  prerelease: auto
+  name_template: "{{.ProjectName}} v{{.Version}}"
+  disable: false
+  extra_files:
+    - glob: ./release-snacks/*

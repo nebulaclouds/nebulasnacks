@@ -1,0 +1,6 @@
+nebulakit
+wheel
+matplotlib
+nebulakitplugins-deck-standard
+nebulakitplugins-sqlalchemy>=0.20.1
+psycopg2-binary

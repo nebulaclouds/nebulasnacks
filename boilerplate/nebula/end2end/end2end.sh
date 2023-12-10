@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+# WARNING: THIS FILE IS MANAGED IN THE 'BOILERPLATE' REPO AND COPIED TO OTHER REPOSITORIES.
+# ONLY EDIT THIS FILE FROM WITHIN THE 'NEBULACLOUDS/BOILERPLATE' REPOSITORY:
+#
+# TO OPT OUT OF UPDATES, SEE https://github.com/nebulaclouds/boilerplate/blob/master/Readme.rst
+set -eu
+
+CONFIG_FILE=$1
+shift
+EXTRA_FLAGS=("$@")
+
+python ./boilerplate/nebula/end2end/run-tests.py "$NEBULASNACKS_VERSION" "$NEBULASNACKS_PRIORITIES" "$CONFIG_FILE" "${EXTRA_FLAGS[@]}"
