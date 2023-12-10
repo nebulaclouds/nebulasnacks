@@ -37,19 +37,3 @@ The [Tutorials](https://docs.nebula.org/projects/cookbook/en/latest/tutorials.ht
 the [Integrations](https://docs.nebula.org/projects/cookbook/en/latest/integrations.html) section demonstrates how to use Nebula with other tools and frameworks.
 
 > Nebulasnacks currently has all examples in Python (Nebulakit Python SDK).
-
-<html>
-    <h2 id="contribution-guide">
-        📖 How to Contribute to Nebulasnacks
-    </h2>
-</html>
-
-You can find the detailed contribution guide [here](docs/contribute.md).
-
-<html>
-    <h2 id="file-an-issue">
-        🐞 File an Issue
-    </h2>
-</html>
-
-Refer to the [issues](https://docs.nebula.org/en/latest/community/contribute.html##file-an-issue) section in the contribution guide if you'd like to file an issue.
